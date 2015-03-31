@@ -1,4 +1,4 @@
-# UdacityPitchPerfect
+# Pitch Perfect iOS App
 
 An App made using Apple's new programming language Swift
 
